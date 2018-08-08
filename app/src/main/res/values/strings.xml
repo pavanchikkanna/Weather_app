@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weatherapp</string>
+    <string name="label">Settings</string>
+    <string name="menu_label">settings</string>
+    <string name="main">climate:</string>
+ <string name="city">Bengaluru</string>
+    <string name="description">Description:</string>
+    <string name="temperature">0.0°c</string>
+    <string name="humidity">Humidity:</string>
+    <string name="hint">Enter the city name</string>
+    <string name="city_key">city_key</string>
+    <string name="background">image</string>
+</resources>

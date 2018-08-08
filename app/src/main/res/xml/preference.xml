@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enabled="true">
+    <EditTextPreference
+        android:defaultValue="Bengaluru"
+        android:key="@string/city_key"
+        android:dialogTitle="City"
+        android:summary="enter the city name" />
+
+</PreferenceScreen>
