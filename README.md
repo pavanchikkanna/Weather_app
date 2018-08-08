@@ -8,3 +8,5 @@
    
    By default the city is Bengaluru but user can change this default attribute by navigating into the setting activity
  
+ # UX:
+ 
