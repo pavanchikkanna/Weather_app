@@ -10,6 +10,7 @@
  
  # UX:
  
- <img src="image/device-2018-08-08-182017.png">  <img src="image/device-2018-08-08-182017.png">
- 
-<img src="image/device-2018-08-08-182017.png">   <img src="image/device-2018-08-08-182017.png">
+ <img src="image/device-2018-08-08-182017.png">  
+ <img src="image/device-2018-08-08-182045.png">
+ <img src="image/device-2018-08-08-182132.png">
+
